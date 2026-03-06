@@ -5,10 +5,15 @@ Data Analyst Portfolio | Python SQL Tableau | Bandung
 
 ## 👋 Wiyandasari Siboro
 
-Halo! Saya **Wiyandasari M. Nadine Siboro**, seorang aspiring **Data Analyst dari Bandung** yang tertarik mengolah dan memvisualisasikan data untuk membantu bisnis menemukan insight.
+Halo! Saya Wiyandasari M. Nadine Siboro, seorang aspiring Data Analyst dengan latar belakang Teknik Informatika yang tertarik dalam analisis data, visualisasi, dan menemukan insight dari data untuk membantu pengambilan keputusan.
 
+🎓 Pendidikan
+S1 Teknik Informatika
+IPK: 3.37
+
+📍 Location: Bandung, Indonesia
 Saya menggunakan:
-* Python
+* Python (Pandas, Matplotlib, Seaborn)
 * SQL
 * Tableau
 * Excel
