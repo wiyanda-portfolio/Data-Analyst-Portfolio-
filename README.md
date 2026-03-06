@@ -32,8 +32,12 @@ Python
 Pandas
 Matplotlib
 
-👉 Lihat analisis lengkap:
-projects/sales_analysis.ipynb
+### Key Insights
+- Produk dengan revenue tertinggi adalah **Milk**
+- Kota dengan penjualan terbesar adalah **Jakarta**
+- Produk yang paling sering dibeli adalah **Bread**
+  
+👉 [Lihat Python Analysis](projects/sales_analysis.ipynb)
 
 # 📫 Contact
 
