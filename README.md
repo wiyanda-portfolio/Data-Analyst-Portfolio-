@@ -37,6 +37,16 @@ Python
 Pandas
 Matplotlib
 
+## 📊 Visualization
+### Revenue by Product
+![Revenue](images/revenue_by_product.png)
+
+### Sales by City
+![City Sales](images/sales_by_city.png)
+
+### Most Purchased Product
+![Product Quantity](images/most_purchased_product.png)
+
 ### Key Insights
 - Produk dengan revenue tertinggi adalah **Milk**
 - Kota dengan penjualan terbesar adalah **Jakarta**
