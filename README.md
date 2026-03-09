@@ -23,8 +23,8 @@ IPK: 3.37
 
 # Portfolio Projects
 # 📂 Project 1
-## 📈 Sales Data Analysis
-Analisis dataset penjualan untuk menemukan insight bisnis seperti:
+## 📈 Sales Data Analysis (python)
+Analisis dataset penjualan menggunakan Python untuk menemukan pola penjualan dan insight bisnis:
 * Produk dengan revenue tertinggi
 * Kota dengan penjualan terbesar
 * Produk paling sering dibeli
@@ -87,7 +87,12 @@ Matplotlib
 # 📂 Project 3
 ## 🗄️ E-Commerce SQL Analysis
 Analisis data transaksi e-commerce menggunakan SQL untuk menemukan insight bisnis.
-
+Analisis yang dilakukan:
+- Total revenue
+- Best selling product
+- Sales by city
+- Average sales per product
+  
 ### Business Questions
 1. Siapa customer dengan total pembelian tertinggi?
 2. Produk apa yang menjadi best selling product?
