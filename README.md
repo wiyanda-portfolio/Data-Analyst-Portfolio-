@@ -75,6 +75,10 @@ Matplotlib
 
 👉 [Lihat Python Analysis](projects/customer_segmentation.ipynb)
 
+### Key Insights
+- Customer dengan **income tinggi tidak selalu memiliki spending tinggi**
+- Usia **20–35 tahun memiliki spending score paling tinggi**
+- Terdapat segment customer dengan **high income & high spending**
 
 # 📂 Project 3
 ## 🗄️ E-Commerce SQL Analysis
