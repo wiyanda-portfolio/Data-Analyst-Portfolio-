@@ -67,7 +67,14 @@ Python
 Pandas
 Matplotlib
 
-👉
+#### Age vs Spending Score
+![Age vs Spending](images/age_vs_spending.png)
+
+#### Income vs Spending Score
+![Income vs Spending](images/income_vs_spending.png)
+
+👉 [Lihat Python Analysis](projects/customer_segmentation.ipynb)
+
 
 # 📂 Project 3
 ## 🗄️ E-Commerce SQL Analysis
@@ -108,4 +115,4 @@ Dashboard ini menampilkan insight visual mengenai performa penjualan untuk memud
 📍 Bandung, Indonesia
 🔗 LinkedIn: https://linkedin.com/in/wiyandasari M. Nadine Siboro
 
-⭐ Portfolio ini berisi project data analysis untuk menunjukkan kemampuan saya dalam data cleaning, data analysis, dan data visualization menggunakan Python, SQL, dan BI tools.
+⭐ Portfolio ini berisi beberapa project data analysis untuk menunjukkan kemampuan saya dalam data cleaning, exploratory data analysis, SQL querying, dan data visualization menggunakan Python, SQL, dan BI tools.
