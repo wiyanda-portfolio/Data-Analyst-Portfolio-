@@ -98,7 +98,7 @@ Analisis data transaksi e-commerce menggunakan SQL untuk menemukan insight bisni
 SQL  
 Excel/CSV
 
-👉
+👉 [Lihat SQL Analysis](ecommerce_sql_analysis.sql)
 
 ### Key Insights
 - Produk dengan penjualan tertinggi memberikan kontribusi terbesar terhadap revenue
@@ -116,9 +116,10 @@ Membuat dashboard interaktif untuk memvisualisasikan performa penjualan dan memb
 - Monthly Sales Trend
 
 ### Tools
-Tableau / Power BI
+Power BI
 
 ### Dashboard Preview
+![Dashboard](sales_dashboard.png)
 
 ### Key Insights
 - Produk tertentu mendominasi penjualan
