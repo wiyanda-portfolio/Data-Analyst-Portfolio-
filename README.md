@@ -1,6 +1,9 @@
 # Data-Analyst-Portfolio-
 Data Analyst Portfolio | Python SQL Tableau | Bandung
 
+Welcome to my Data Analyst Portfolio.  
+This repository showcases my data analysis projects using Python, SQL, and data visualization tools.
+
 # 📊Data Analyst Portfolio
 
 ## 👋 Wiyandasari Siboro
@@ -18,6 +21,7 @@ IPK: 3.37
 * Excel
 * Power BI
 
+# Portfolio Projects
 # 📂 Project 1
 ## 📈 Sales Data Analysis
 Analisis dataset penjualan untuk menemukan insight bisnis seperti:
@@ -38,13 +42,13 @@ Matplotlib
 
 ## 📊 Visualization
 ### Revenue by Product
-![Revenue](images/revenue_by_product.png)
+![Revenue](revenue_by_product.png)
 
 ### Sales by City
-![City Sales](images/sales_by_city.png)
+![City Sales](sales_by_city.png)
 
 ### Most Purchased Product
-![Product Quantity](images/most_purchased_product.png)
+![Product Quantity](most_purchased_product.png)
 
 👉 [Lihat Python Analysis](projects/sales_analysis.ipynb)
 
@@ -68,12 +72,12 @@ Pandas
 Matplotlib
 
 #### Age vs Spending Score
-![Age vs Spending](images/age_vs_spending.png)
+![Age vs Spending](age_vs_spending.png)
 
 #### Income vs Spending Score
-![Income vs Spending](images/income_vs_spending.png)
+![Income vs Spending](income_vs_spending.png)
 
-👉 [Lihat Python Analysis](projects/customer_segmentation.ipynb)
+👉 [Lihat Python Analysis](customer_segmentation.ipynb)
 
 ### Key Insights
 - Customer dengan **income tinggi tidak selalu memiliki spending tinggi**
@@ -96,6 +100,12 @@ Excel/CSV
 
 👉
 
+### Key Insights
+- Produk dengan penjualan tertinggi memberikan kontribusi terbesar terhadap revenue
+- Beberapa customer memiliki kontribusi pembelian yang jauh lebih tinggi dibanding yang lain
+- Revenue menunjukkan tren peningkatan pada bulan tertentu
+
+
 # 📂 Project 4
 ## 📊 Dashboard Project (Data Visualization Project)
 Membuat dashboard interaktif untuk memvisualisasikan performa penjualan dan membantu pengambilan keputusan bisnis.
@@ -107,6 +117,13 @@ Membuat dashboard interaktif untuk memvisualisasikan performa penjualan dan memb
 
 ### Tools
 Tableau / Power BI
+
+### Dashboard Preview
+
+### Key Insights
+- Produk tertentu mendominasi penjualan
+- Beberapa kota memiliki kontribusi penjualan lebih tinggi
+- Penjualan menunjukkan tren meningkat dari waktu ke waktu
 
 Example Dashboard
 Dashboard ini menampilkan insight visual mengenai performa penjualan untuk memudahkan analisis data secara cepat dan interaktif.
