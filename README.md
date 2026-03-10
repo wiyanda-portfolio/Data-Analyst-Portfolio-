@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio-
-Data Analyst Portfolio | Python SQL Tableau | Bandung
+Data Analyst Portfolio |Python | SQL | Power BI |
 
 Welcome to my Data Analyst Portfolio.  
 This repository showcases my data analysis projects using Python, SQL, and data visualization tools.
@@ -14,10 +14,9 @@ S1 Teknik Informatika
 IPK: 3.37
 📍 Location: Bandung, Indonesia
 
-# Tools:
+## 🛠 Tools & Technologies
 * Python (Pandas, Matplotlib, Seaborn)
 * SQL
-* Tableau
 * Excel
 * Power BI
 
@@ -35,7 +34,7 @@ Analisis dataset penjualan menggunakan Python untuk menemukan pola penjualan dan
 2. Kota mana dengan penjualan tertinggi?
 3. Produk apa yang paling sering dibeli pelanggan?
 
-### 🛠 Tools
+## 🛠 Tools & Technologies
 Python
 Pandas
 Matplotlib
@@ -66,7 +65,7 @@ Analisis data customer untuk memahami perilaku pembelian dan segmentasi pelangga
 2. Apakah usia mempengaruhi spending?
 3. Bagaimana segment customer berdasarkan income dan spending?
 
-### 🛠 Tools
+## 🛠 Tools & Technologies
 Python
 Pandas
 Matplotlib
@@ -99,7 +98,7 @@ Analisis yang dilakukan:
 3. Berapa total revenue setiap bulan?
 4. Kota mana dengan jumlah customer terbanyak?
 
-### Tools
+## 🛠 Tools & Technologies
 SQL  
 Excel/CSV
 
@@ -120,7 +119,7 @@ Membuat dashboard interaktif untuk memvisualisasikan performa penjualan dan memb
 - Sales by CityN
 - Monthly Sales Trend
 
-### Tools
+## 🛠 Tools & Technologies
 Power BI
 
 ### Dashboard Preview
@@ -131,15 +130,14 @@ Power BI
 - Beberapa kota memiliki kontribusi penjualan lebih tinggi
 - Penjualan menunjukkan tren meningkat dari waktu ke waktu
 
-Example Dashboard
 Dashboard ini menampilkan insight visual mengenai performa penjualan untuk memudahkan analisis data secara cepat dan interaktif.
 
-👉
+👉[Download Dashboard](dashboard/sales_dashboard.pbix)
 
 # 📫 Contact
 
 📧 [wiyandasari712 @gmail.com](mailto:wiyandasari712@gmail.com)
 📍 Bandung, Indonesia
-🔗 LinkedIn: https://linkedin.com/in/wiyandasari M. Nadine Siboro
+🔗 LinkedIn: https://linkedin.com/in/wiyandasari-m-nadine-siboro
 
-⭐ Portfolio ini berisi beberapa project data analysis untuk menunjukkan kemampuan saya dalam data cleaning, exploratory data analysis, SQL querying, dan data visualization menggunakan Python, SQL, dan BI tools.
+⭐ This portfolio showcases my data analysis projects using Python, SQL, and BI tools to demonstrate my skills in data cleaning, analysis, and visualization.
