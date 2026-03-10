@@ -109,7 +109,6 @@ Excel/CSV
 - Beberapa customer memiliki kontribusi pembelian yang jauh lebih tinggi dibanding yang lain
 - Revenue menunjukkan tren peningkatan pada bulan tertentu
 
-
 # 📂 Project 4
 ## 📊 Dashboard Project (Data Visualization Project)
 Membuat dashboard interaktif untuk memvisualisasikan performa penjualan dan membantu pengambilan keputusan bisnis.
@@ -123,7 +122,6 @@ Membuat dashboard interaktif untuk memvisualisasikan performa penjualan dan memb
 Power BI
 
 ## 📊 Dashboard Preview
-
 ![Sales Dashboard](images/sales_dashboard.png)
 
 ### Key Insights
@@ -135,8 +133,33 @@ Dashboard ini menampilkan insight visual mengenai performa penjualan untuk memud
 
 👉[Download Power BI Dashboard](dashboard/sales_dashboard.pbix)
 
-# 📫 Contact
+# 📂 Project 5
+## 📊 E-Commerce Sales Exploratory Data Analysis
+Exploratory data analysis of e-commerce sales dataset to understand sales performance and business trends.
 
+### Business Questions
+1. What products generate the highest revenue?
+2. Which cities have the highest sales?
+3. What is the monthly sales trend?
+
+## 🛠 Tools & Technologies
+Python  
+Pandas  
+Matplotlib  
+
+### Visualization
+![Sales Trend](images/sales_trend.png)
+
+![Top Products](images/top_products.png)
+
+👉 [Lihat Python Analysis](projects/ecommerce_sales_analysis.ipynb)
+
+### Key Insights
+- Certain products contribute significantly to total revenue
+- Sales are concentrated in major cities
+- Sales trend shows seasonal patterns
+  
+# 📫 Contact
 📧 [wiyandasari712 @gmail.com](mailto:wiyandasari712@gmail.com)
 📍 Bandung, Indonesia
 🔗 LinkedIn: https://linkedin.com/in/wiyandasari-m-nadine-siboro
