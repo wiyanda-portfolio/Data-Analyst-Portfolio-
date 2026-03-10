@@ -71,12 +71,12 @@ Pandas
 Matplotlib
 
 #### Age vs Spending Score
-![Age vs Spending](age_vs_spending.png)
+![Spending](images/customer_spending_distribution.png)
 
 #### Income vs Spending Score
-![Income vs Spending](income_vs_spending.png)
+![Income vs Spending](images/customer_income_vs_spending.png)
 
-👉 [Lihat Python Analysis](customer_segmentation.ipynb)
+👉 [Lihat Python Analysis](projects/customer_segmentation.ipynb)
 
 ### Key Insights
 - Customer dengan **income tinggi tidak selalu memiliki spending tinggi**
@@ -122,8 +122,9 @@ Membuat dashboard interaktif untuk memvisualisasikan performa penjualan dan memb
 ## 🛠 Tools & Technologies
 Power BI
 
-### Dashboard Preview
-![Dashboard](sales_dashboard.png)
+## 📊 Dashboard Preview
+
+![Sales Dashboard](images/sales_dashboard.png)
 
 ### Key Insights
 - Produk tertentu mendominasi penjualan
@@ -132,7 +133,7 @@ Power BI
 
 Dashboard ini menampilkan insight visual mengenai performa penjualan untuk memudahkan analisis data secara cepat dan interaktif.
 
-👉[Download Dashboard](dashboard/sales_dashboard.pbix)
+👉[Download Power BI Dashboard](dashboard/sales_dashboard.pbix)
 
 # 📫 Contact
 
