@@ -168,8 +168,8 @@ Interactive dashboard project to analyze business sales performance and support 
 5. Profit Margin
 
 ## 🛠 Tools & Technologies
-Python / Excel
-Power BI or Tableau
+Excel / CSV
+Power BI
 
 ### 📊 Dashboard Features
 ![Sales Dashboard](images/sales_dashboard.png)
