@@ -174,6 +174,8 @@ Power BI or Tableau
 ### 📊 Dashboard Features
 ![Sales Dashboard](images/sales_dashboard.png)
 
+👉 [Download Dashboard](dashboard/sales_dashboard.pbix) 
+
 ### Key Insights
 - A small number of products generate the majority of revenue.
 - Certain regions contribute significantly higher sales.
