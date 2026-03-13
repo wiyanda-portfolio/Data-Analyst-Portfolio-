@@ -185,19 +185,34 @@ Power BI
 ## 👥 Customer Churn Analysis
 Customer churn analysis to understand customer retention and identify factors influencing churn behavior.
 ### Business Questions
-1. Which customers are likely to churn?
-2. What factors influence customer churn?
-3. Which customer segment has the highest churn rate?
+1.What factors influence customer churn?
+2. Does tenure affect churn behavior?
+3. Do support calls correlate with churn?
 
 ## 🛠 Tools & Technologies
 Python
 Jupyter Notebook
+Pandas
+Seaborn
+Matplotlib
 Microsoft Excel
 
+### 📊 Visualisasi
+### Customer Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Tenure vs Churn
+![Tenure](images/tenure_vs_churn.png)
+
+### Support Calls vs Churn
+![Support](images/support_calls_vs_churn.png)
+
+👉 [View Full Python Analysis](projects/customer_churn_analysis.ipynb)
+
 ### Key Insights
-- Customers with low engagement levels tend to churn more frequently.
-- Contract duration significantly impacts churn probability.
-- Certain customer segments show higher churn risk.
+- Customers with shorter tenure churn more frequently
+- High support calls are associated with higher churn
+- Short contract length customers have higher churn rates
 This analysis helps businesses understand customer behavior and improve retention strategies.
 
 # 📂 Project 8
