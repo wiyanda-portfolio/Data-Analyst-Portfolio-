@@ -233,6 +233,16 @@ Business intelligence analysis using SQL to extract insights from transactional 
 ## 🛠 Tools & Technologies
 MySQL or PostgreSQL
 
+### 📊 Visualisasi
+## Revenue by City
+![Revenue by City](images/revenue_by_city.png)
+
+## Top Selling Products
+![Top Products](images/top_products.png)
+
+## Monthly Sales Trend
+![Sales Trend](images/monthly_sales_trend.png)
+
 ### Key Insights
 - A small group of customers contributes significantly to overall revenue.
 - Certain products consistently perform as top sellers.
